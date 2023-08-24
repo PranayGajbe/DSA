@@ -1,0 +1,17 @@
+import java.util.*;
+
+class insert
+{
+	public static void main(String args[])
+	{
+		LinkedList<String> l1 = new LinkedList();
+
+		l1.add("one");
+		l1.add("two");
+		l1.add("three");
+
+		System.out.println(l1);
+
+	}
+}
+		
